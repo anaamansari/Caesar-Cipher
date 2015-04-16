@@ -1,0 +1,14 @@
+/*
+* tistdtypes.h
+*
+*  Created on: Mar 17, 2012
+*      Author: BLEE, modified
+*
+*  Description: This C header file defines the data types used
+*
+*  For the book "Real Time Digital Signal Processing:
+*                Fundamentals, Implementation and Application, 3rd Ed"
+*                By Sen M. Kuo, Bob H. Lee, and Wenshun Tian
+*                Publisher: John Wiley and Sons, Ltd
+*
+*/
